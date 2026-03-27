@@ -22,9 +22,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: YouTube, icon: youtube, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: TikTok, icon: tiktok, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:maxwellchen03@gmail.com"}
+ # - {title: YouTube, icon: youtube, url: "https://github.com/niklasbuschmann/contrast"}
+ # - {title: TikTok, icon: tiktok, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
