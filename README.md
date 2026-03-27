@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-![A picture of London](/assets/image/thames_ldn.jpg)
+![A picture of London](/assets/images/thames_ldn.jpg)
 
 Over the years, I’ve found myself spending a significant amount of time to exercise my brain cells: reflecting, evaluating, or, in the words of my former colleagues, over-thinking. My objects of speculation lack a fixed topic. They range from gay sub-cultures that are becoming increasingly obscure to the AI bubble that might eventually leave us with a deformed consumer electronics industry for years to come.
 
