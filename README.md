@@ -4,84 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
-## Github Pages
+Over the years, I’ve found myself spending a significant amount of time to exercise my brain cells: reflecting, evaluating, or, in the words of my former colleagues, over-thinking. My objects of speculation lack a fixed topic. They range from gay sub-cultures that are becoming increasingly obscure to the AI bubble that might eventually leave us with a deformed consumer electronics industry for years to come.
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) to `your_username.github.io` and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+It has been a real struggle trying to organise these ephemeral, cascading fragments of consciousness. Most of the times, they disappear so quick, right after I get everything figured out, or simply fade away before I can save them to memory. This eventually led to the idea of creating this blog while I was preparing my portfolio—a "tree hole" where I can feel comfortable publishing my cynical thoughts and unbeknownst stories.
 
-## Features
+These articles might be a matinee I barely remember from childhood, or simply concepts that popped into my head while waiting for the last train. Whoever you are, I hope you find a peace of mind in reading these journals of my overloaded thoughts: leaving you with a either fulfilled—or maybe just a contemplative—afternoon.
 
- - dark mode
- - [KaTeX](https://katex.org) included
- - no external ressources
- - optional sidebar
- - archive page
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
-
-## Installation
-
-To run locally [install Ruby](https://www.ruby-lang.org/en/documentation/installation/) and then run:
-
-```
-git clone https://github.com/niklasbuschmann/contrast.git
-cd contrast
-gem install bundler jekyll jekyll-feed
-bundle exec jekyll serve
-```
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
-show_minimal: false             # remove all clutter
-
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
-
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
-
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""         # see https://disqus.com
-#  isso_domain: ""              # see https://isso-comments.de
-
-plugins:
- - jekyll-feed
-```
-
-## Math
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter. [Jektex](https://github.com/yagarea/jektex) can be used to pre-render math on the server side.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://github.com/user-attachments/assets/8f0ef4bc-f079-495e-8c31-5867b8ccd25c)
-
-![screenshot](https://github.com/user-attachments/assets/e5e6d189-3251-41f4-baba-ff42be65f666)
-
-![screenshot](https://github.com/user-attachments/assets/d31879ae-7113-42be-b580-1e96a2aedd29)
-
-![screenshot](https://github.com/user-attachments/assets/d524ce47-8d8c-473e-afc6-79b34fae63e8)
+*See you in my sweetest reveries.*
