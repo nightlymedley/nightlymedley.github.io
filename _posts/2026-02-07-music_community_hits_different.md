@@ -2,7 +2,7 @@
 title:  "The niche music community ... will hit different in the future"
 mathjax: true
 layout: post
-tags: [fragments]
+tags: [Fragments]
 ---
 
 ![St George's Hall, Liverpool](/assets/images/stgeorgeshall_lvpl.jpg)
