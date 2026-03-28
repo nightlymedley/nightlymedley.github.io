@@ -13,13 +13,15 @@ These articles might be a matinee I barely remember from childhood, or simply co
 
 *See you in my sweetest reveries.*
 
-## The Extras
+---
 
-### Let’s Connect
+# The Extras
+
+## Let’s Connect
 
 While I believe most of my visitors arrive via my social media channels, if you are new here, you can find me by clicking the icons located in the header of this page. For business inquiries, licensing, or simply to start a conversation, please feel free to send me an email.
 
-### Usage and Intellectual Property
+## Usage and Intellectual Property
 
 As much as I appreciate you visiting my "tree hole," I would like to set clear boundaries for how my content should be used to keep everything organised and running smoothly.
 
