@@ -3,7 +3,7 @@ title: "I Am So Done with AI Detection Services"
 layout: post
 tags: [Fragments]
 ---
-#### This article is under construction
+## This article is under construction
 
 # The Penance
 
@@ -38,11 +38,14 @@ Reading about my sense of inadequacy and perplexity, you might resonate with me 
 
 To begin with, I think it is important to show you how AI detectors respond to written content. While these are not Turnitin scores, the underlying algorithms across these platforms is very similar. Here is how they "scored" selected media:
 
-- An essay I wrote before I realised you could ask GPT to polish your writing (saving me from clicking “accept” a thousand times on Grammarly): 20% AI
-- Several paragraphs from a book written by my professor before LLMs even existed: 23% AI
-- A section from my own dissertation, which I asked ChatGPT to improve for flow, clarity, and grammar: 26% AI
-- Apple’s press release for the MacBook Pro (M5 Pro/Max chips): 51% AI
-- Taylor Swift’s Midnights Album Prologue: 55% AI
+| Item          | AI Rate          |
+|------------------|------------------|
+| An essay I wrote before I realised you could ask GPT to polish your writing (saving me from clicking “accept” a thousand times on Grammarly) | 20% AI |
+| Several paragraphs from a book written by my professor before LLMs even existed | 23% AI |
+| A section from my own dissertation, which I asked ChatGPT to improve for flow, clarity, and grammar | 26% AI |
+| [Apple’s press release for the MacBook Pro with M5 Pro/Max chips](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/) | 51% AI |
+| [Taylor Swift’s Midnights Album Prologue](https://genius.com/Taylor-swift-midnights-liner-notes-annotated) | 55% AI |
+
 
 The case of Taylor Swift is very telling. The Midnights prologue was written in early 2022 at the latest, as it generally takes six months or more for vinyl factories to press and package records. This was way before the world was shocked by GPT-3.5 in late 2022. So, there is no possible way she could asked an AI to write her prologue—unless someone at OpenAI infiltrated her management team to leak a copy of the record illegally.
 
