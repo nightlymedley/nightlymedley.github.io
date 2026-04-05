@@ -88,6 +88,7 @@ One thing that can be stated with certainty, however, is that the introduction o
 Interestingly, OpenAI took down the classifier in less than six months simply because it was inaccurate. However, this has not stopped other businesses from monetising AI text detection. Almost all university students have some experience with Turnitin, a California-based education giant providing essay submission, review toolkits, and plagiarism detection services to thousands of HEIs worldwide. In April 2023, Turnitin launched its own AI writing detection system (Caren, 2023) and opened a Pandora’s box of nightmares. The detector can be accessed by HEI staff through a range of Turnitin products, including Feedback Studio and Simcheck, reaching more than 10,700 HEIs and 62 million students.
 
 ![Picture of Turnitin AI Report](/assets/images/turnitin_ai_report.jpg)
+##### A Picture of Turnitin AI Writing Report
 
 The AI detector is not a gratis service for existing subscribers, unlike Apple Music’s lossless audio. Turnitin charges annual institutional subscriptions priced on a per-student basis; the AI detection feature is not included in the basic license but is a value-added service available with premium-tier plans. A report indicated that Turnitin's pricing is fairly vague and inconsistent: "companies charge different amounts to different institutions based on how much they expect the institutions are willing to pay" (Mathewson, 2025). The price gap in fees paid by different institutions for the same feature can be as much as double or more, and universities have to pay approximately an extra 50 cents per student to activate the AI detector.
 
@@ -119,9 +120,9 @@ Asking an AI to produce something that is considered "more human" than an actual
 
 Having a machine to judge humanity is absolutely by far the most pathetic thing ever happened to mankind.
 
-##### FIN.
+### FIN.
 
-#### Bibliography
+## Bibliography
 
 Baker, V. and Boland, L. (2026). Colleges face a choice: Try to shape AI’s impact on learning, or be redefined by it. *The Conversation*. \[Online] 23 Feb. Available at: https://theconversation.com/colleges-face-a-choice-try-to-shape-ais-impact-on-learning-or-be-redefined-by-it-275653
 
