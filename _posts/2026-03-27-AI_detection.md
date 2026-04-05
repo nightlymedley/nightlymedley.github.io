@@ -98,7 +98,7 @@ The answer is pretty clear: Turnitin capitalised on the ChatGPT panic by launchi
 
 As for the students, they are ironically being forced to engage in a "reverse Turing test" just to prove they are not robots.
 
-## What's Next?
+# What's Next?
 
 The good news is that this is not the end of the world. Knowing that there are still institutions opting out of AI detection systems is such a relief. You see, despite people’s tendency to act in a state of absolute hysteria in response to the emergence of new technology, we need to learn to coexist with it—and this is exactly what we have done over the past hundreds of years. As seen in a report published by the Higher Education Policy Institute (HEPI), the infiltration rate of Gen-AI among UK students has reached 95%, meaning its use is almost universal. Over two-thirds of students state that AI literacy is essential and are calling for institutions to invest more in AI education. AI is not a "yes or no" problem; we have to learn how to adapt as AI continues to embed itself in more and more aspects of social practices.
 
@@ -112,13 +112,13 @@ This shift is not surprising, as the ultimate fate of all technologies is either
 
 The question of detecting student AI use for plagiarism remains intricate and highly debatable. It is difficult to define exactly which uses of AI constitute plagiarism. A student might leave markdown formatting in their essay, almost certainly revealing AI usage, while another might generate all the arguments and structures via ChatGPT but write the final work by hand, concealing all AI footprints. I am confident that students in the future will not need to spend their nights fighting AI detectors just to prove their intellectual property is their own.
 
-## The Extras
+# The Extras
 
 And at the very last, the implementation of AI detection services has  gave birth to something no one could have predicted: we have written manuals teaching you how to prompt AI chatbots to “humanise” your writing. These curated guides have word-by-word prompt samples that you can simply copy-paste into a chat box. There are also services monetising from desperate students, in which they can paste their essay into a text box, and the algorithm behind will help you to humanise the writing. Or if you are willing to pay more, you get to hire a real person to humanise your sentences.
 
 Asking an AI to produce something that is considered "more human" than an actual human being—a highly sophisticated creature that requires carbohydrates, protein, and fat to survive—truly illustrates our post-modern reality, one in which "realness" has dissolved. When AI-modified text appears more natural than a student’s own words, we have to ask ourselves: has AI become so "humane" that it is now a simulacrum of a human being? If AI-generated text can trick another AI whose job is to identify AI, then how do we define the fundamental characteristics of human literature? 
 
-Having a machine to judge humanity is absolutely by far the most pathetic thing ever happened to mankind.
+**Having a machine to judge humanity is absolutely by far the most pathetic thing ever happened to mankind.**
 
 ### FIN.
 
