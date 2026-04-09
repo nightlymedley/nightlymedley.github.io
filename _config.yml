@@ -24,8 +24,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:maxwellchen03@gmail.com"}
-  - {title: YouTube, icon: youtube, url: "https://youtube.com/@mxwlch0314"}
-  - {title: TikTok, icon: tiktok, url: "https://tiktok.com/@mxwlch03"}
+  - {title: YouTube, icon: youtube, url: "https://youtube.com/"}
+  - {title: TikTok, icon: tiktok, url: "https://tiktok.com/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
