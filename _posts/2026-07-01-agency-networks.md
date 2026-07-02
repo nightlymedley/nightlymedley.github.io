@@ -1,5 +1,5 @@
 ---
-title: I Am So Done with AI Detection Services
+title: The Ad and PR Business is Basically Living in Limbo at This Point
 layout: post
 tags:
   - Anthology
@@ -9,7 +9,6 @@ tags:
 ##### This article reflects the author's very personal opinions and is not intended for business or career decision-making. Some client names and identifying details have been anonymised to ensure privacy. For further information, please reach out via the email address provided.
 
 Whether you’ve been following the industry trends or you're a practitioner yourself, you’ve likely heard the news: WPP is reportedly looking to sell Burson. As WPP’s only dedicated PR powerhouse following the Burson Cohn & Wolfe (BCW) and Hill & Knowlton merger in mid-2024,  stands as one of the largest firm with over 6,000 employees and hundreds of global branches. However, word is that a the struggling British communications conglomerate has tapped Goldman Sachs for a strategic review that could lead to a future spin-off.
-
 
 
 I stumbled onto this update right after dinner, still trying to wash away the lingering aftertaste of celery with a glass of water. The moment I read the headline—and I say this without exaggeration—my wig was gone, my wig has evacuated. Genuinely snatched. This hits home because Burson is where I started my very first full-time job right after I graduate, and processing this potential sale feels like a total mayhem.
