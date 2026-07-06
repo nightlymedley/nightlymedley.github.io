@@ -11,4 +11,4 @@ It has been a real struggle trying to organise these ephemeral, cascading fragme
 
 These articles might be a matinee I barely remember from childhood, or simply concepts that popped into my head while waiting for the last train. Whoever you are, I hope you find a peace of mind in reading these journals of my overloaded thoughts: leaving you with a either fulfilled—or maybe just a contemplative—afternoon.
 
-*See you in my sweetest reveries.*
+[*See you in my sweetest reveries.*](/disclaimers/)
