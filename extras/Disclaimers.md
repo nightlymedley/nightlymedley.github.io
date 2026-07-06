@@ -4,6 +4,8 @@ permalink: "/disclaimers/"
 layout: page
 ---
 
+![A picture of Xinghaiwan Bridge](/assets/images/Xinghaiwan_Brg.jpg)
+
 ## Let’s Connect
 
 While I believe most of my visitors arrive via my social media channels, if you are new here, you can find me by clicking the icons located in the header of this page. For business inquiries, licensing, or simply to start a conversation, please feel free to send me an email.
@@ -22,7 +24,7 @@ Additionally, a kind reminder: please do not copy-paste my posts into your essay
 
 To keep things clear and transparent, any AI-generated content, including but not limited to text or visuals used here will be clearly labeled. I do not want anyone to get tricked by AIGC.
 
-# Privacy
+## Privacy
 
 **I value your privacy as much as my own. Here is how data is handled on this site:**
 - Hosting & Logs: This site is hosted on GitHub Pages. To deliver the site securely, GitHub may collect system logs (like your IP address). Please refer to the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) for details.
