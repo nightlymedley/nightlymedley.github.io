@@ -31,3 +31,5 @@ To keep things clear and transparent, any AI-generated content, including but no
 - Fonts: This website uses the Google Fonts API to provide a consistent visual design. When you visit a page, your browser sends a request to Google's servers. This process may share your IP address and browser information with Google. Google states they do not use this data for profiling or advertising. You can read more in the [Google Fonts Privacy FAQ](https://developers.google.com/fonts/faq/privacy).
 - Contact via Email: If you sent me an email using the address provided in this site, I will see your email address and any information you include in your message. I do not share this information with third parties, nor do I use it for marketing or mailing list purposes.
 - Cookies & Tracking: This site does not use cookies, trackers, or any analytics tools (like Google Analytics).
+
+##### [... Shhhhhh!](https://nightlymedley.github.io/profile/)
