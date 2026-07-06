@@ -1,4 +1,8 @@
-# The Extras
+---
+title: "The Extras"
+permalink: "/disclaimers/"
+layout: page
+---
 
 ## Let’s Connect
 
