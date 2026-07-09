@@ -11,7 +11,9 @@ Take a look at some artefacts staight from the suburban asylum.
 ![Harris](/assets/images/Harris.jpeg)
 
 发布时间：2024 年夏季
+
 全平台播放量：7.8M
+
 类型：Political meme, popular culture
 
 **Brat summer**：英国歌手 Charli XCX 于 2024 年发行了专辑 “Brat”，随后引发了一系列横跨 aesthetics 和 lifestyle 的流行文化地震
@@ -28,7 +30,9 @@ Take a look at some artefacts staight from the suburban asylum.
 ![August](/assets/images/August.jpeg)
 
 发布时间：2025 年夏季
+
 全平台播放量：465k
+
 类型：memes, popular culture
 
 **Jet2Holiday**：一家英国低成本航空公司。该公司发布的一则广告片背景音乐是 Jess Glynne 的歌 **《Hold My Hand》**，副歌部分 *Darling, hold my hand* 在 TikTok/Instagram 上意外爆红。
@@ -41,7 +45,9 @@ August：Taylor Swift 在 2020 年发行的歌曲，每年八月播放量会出�
 ![APT](/assets/images/APT_TB.jpg)
 
 发布时间：2024 年秋季
+
 YouTube 播放量：1.54M
+
 类型：subculture, memes, popular culture
 
 Learn what is CupcakKe remix: [Watch this video](https://www.youtube.com/watch?v=wfAa61YWwWQ)
@@ -54,7 +60,9 @@ Learn what is Jiafei remix: [Watch this video](https://www.youtube.com/watch?v=t
 ![Kim_Jongun](/assets/images/Kim_Jongun.jpeg)
 
 发布时间：2024 年春季
+
 全平台播放量：520k
+
 类型：subculture, memes, political memes
 
 该内容是关于朝鲜三太阳金正恩的恶搞视频。
@@ -64,7 +72,9 @@ Learn what is Jiafei remix: [Watch this video](https://www.youtube.com/watch?v=t
 ![我推的敌蜜](/assets/images/我推的敌蜜.jpg)
 
 发布时间：2023 年秋季
+
 哔哩哔哩播放量：280k
+
 类型：subculture, memes, ACG, J-Pop
 
 # Access My Social Media Channels
@@ -78,5 +88,9 @@ Learn what is Jiafei remix: [Watch this video](https://www.youtube.com/watch?v=t
 
 # Other videos that might be worth sharing
 
+Access my AI-generated and corporate videos [here](https://www.alipan.com/s/xrJK3SnWem4).
+
+
+# Thank you.
 
 
