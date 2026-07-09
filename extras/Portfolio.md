@@ -6,6 +6,8 @@ layout: page
 
 Take a look at some artefacts staight from the suburban asylum.
 
+---
+
 # [01 Kamala Harris - 365](https://www.tiktok.com/@mxwlch03/video/7394583648571313424)
 
 ![Harris](/assets/images/Harris.jpeg)
@@ -78,6 +80,8 @@ Learn what is Jiafei remix: [Watch this video](https://www.youtube.com/watch?v=t
 
 类型：subculture, memes, ACG, J-Pop
 
+---
+
 # Access My Social Media Channels
 请勿在公共场所（包括但不限于地铁、咖啡厅、办公室）外放本人的视频作品，推荐独自浏览或佩戴耳机
 
@@ -86,6 +90,8 @@ Learn what is Jiafei remix: [Watch this video](https://www.youtube.com/watch?v=t
 | YouTube：[Click here](https://www.youtube.com/@mxwlch0314) | 20.5k       | 7.98M       |
 | TikTok：[Click here](https://www.tiktok.com/@mxwlch03)     | 11.5k       | 9M+         |
 | 哔哩哔哩：[Click here](https://space.bilibili.com/30256420)    | 4.4k        | 3M          |
+
+---
 
 # Other videos that might be worth sharing
 
