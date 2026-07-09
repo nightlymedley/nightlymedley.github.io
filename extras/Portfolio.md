@@ -22,7 +22,7 @@ Take a look at some artefacts staight from the suburban madhouse.
 
 **Coconut tree**：来自美国前副总统 Kamala Harris 2023 年的一次演讲，这句话被网友单独裁剪出来并进行二创，引发互联网效应
 
-**它们怎么合体**：哈里斯成为民主党核心候选人后，Charli XCX 发了一条很短的推文：“kamala IS brat”。随后 Harris 阵营和支持者把她的社媒视觉改成《Brat》那种荧光绿风格，同时把“coconut tree”“unburdened by what has been”等 Harris 语录剪进 Charli XCX 音乐和 Brat 风格视频里。
+**它们怎么合体**：哈里斯成为民主党核心候选人后，Charli XCX 发布推文：“kamala IS brat”。随后 Harris 阵营及支持者对社媒视觉进行重塑，引入《Brat》荧光绿风格，同结合 Harris 语录 “coconut tree”“unburdened by what has been” 制作 brat 主题混剪。
 
 该视频于 2024 年 7 月被 **ABC News** pick-up 用于[早间新闻播报](https://youtu.be/psFNPYv_2xQ?si=X7RsG4z-FpZb5wUI&t=22)
 
