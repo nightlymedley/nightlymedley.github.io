@@ -17,6 +17,7 @@ Take a look at some artefacts staight from the suburban asylum.
 类型：Political meme, popular culture
 
 **Brat summer**：英国歌手 Charli XCX 于 2024 年发行了专辑 “Brat”，随后引发了一系列横跨 aesthetics 和 lifestyle 的流行文化地震
+
 **Coconut tree**：来自美国前副总统 Kamala Harris 2023 年的一次演讲，这句话被网友单独裁剪出来并进行二创，引发互联网效应
 
 **它们怎么合体**：哈里斯成为民主党核心候选人后，Charli XCX 发了一条很短的推文：“kamala IS brat”。随后 Harris 阵营和支持者把她的社媒视觉改成《Brat》那种荧光绿风格，同时把“coconut tree”“unburdened by what has been”等 Harris 语录剪进 Charli XCX 音乐和 Brat 风格视频里。
