@@ -4,7 +4,7 @@ permalink: /portfolio/
 layout: page
 ---
 
-Take a look at some artefacts staight from the suburban asylum.
+Take a look at some artefacts staight from the suburban madhouse.
 
 ---
 
@@ -54,6 +54,7 @@ YouTube 播放量：1.54M
 类型：subculture, memes, popular culture
 
 Learn what is CupcakKe remix: [Watch this video](https://www.youtube.com/watch?v=wfAa61YWwWQ)
+
 Learn what is Jiafei remix: [Watch this video](https://www.youtube.com/watch?v=tUadBVnGI08)
 
 **APT**：BLACKPINK 成员朴彩英与美国歌手 Bruno Mars 的歌曲，发行后引发全球二创热潮
@@ -97,7 +98,4 @@ Learn what is Jiafei remix: [Watch this video](https://www.youtube.com/watch?v=t
 
 Access my AI-generated and corporate videos [here](https://www.alipan.com/s/xrJK3SnWem4).
 
-
 # Thank you.
-
-
