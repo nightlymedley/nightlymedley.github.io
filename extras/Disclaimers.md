@@ -16,7 +16,7 @@ As much as I appreciate you visiting my "tree hole," I would like to set clear b
 
 **On My Writing:** All of the writing here reflects my personal thoughts on certain topics or my own lived experiences; I put a great deal of effort into the making of each piece. If you would like to use any of my reflections in your own projects, I would appreciate it if you contacted me for consent first. 
 
-Additionally, a kind reminder: please do not copy-paste my posts into your essays. This is to ensure you are not **flagged for academic misconduct.**
+Additionally, a kind reminder: please do not copy-paste my posts into your essays. 
 
 **On My Photos & Illustrations:** Unless specified otherwise, the images found here are my own intellectual property. You are welcome to share or use them for non-commercial projects. If you want a higher resolution or a RAW file, please feel free to reach out. In instances where an image is not mine, I will do my best to credit the original owner, who retains all rights to their work.
 
