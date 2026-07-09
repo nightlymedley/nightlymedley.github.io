@@ -38,7 +38,7 @@ August：Taylor Swift 在 2020 年发行的歌曲，每年八月播放量会出�
 
 # 03 [APT. (CupcakKe & Jiafei Remix)](https://www.youtube.com/watch?v=UuWu7ws4KLs)
 
-![APT](/assets/images/APT_TB.jpeg)
+![APT](/assets/images/APT_TB.jpg)
 
 发布时间：2024 年秋季
 YouTube 播放量：1.54M
